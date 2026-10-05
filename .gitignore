@@ -1,0 +1,15 @@
+# 机密/内部文件 —— 不进仓库（Pages 公开后所有入库文件均可被访问）
+.DS_Store
+*.pdf
+*.png
+.claude_tmp/
+
+# 开发商原始资料（合同、价格表、租金评估、物业预算、EOI、原始户型与效果图）
+Body Corporate/
+Brochure/
+Contracts/
+Expression Of Interest/
+Floor Plans/
+Price List/
+Rentals/
+Renders/
